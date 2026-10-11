@@ -59,16 +59,18 @@ CVE IDs for all 46 findings were requested from the [MITRE CNA of Last Resort](h
 | 45 | `org.projectmaxs.main` | MAXS Main | CWE-926 | `CAN-2026-2053097` | [W6-P04](advisories/CAN-2026-2053097.md) |
 | 46 | `com.greenart7c3.citrine` | Citrine | CWE-926 | `CAN-2026-2053098` | [W6-P07](advisories/CAN-2026-2053098.md) |
 
+## What each advisory contains
+
+Summary · vulnerable component · attack vector and prerequisites · **full proof of concept** (environment, reproduction steps, measured result, positive/negative controls) · impact · preconditions · remediation · prior-art check · references · disclosure status.
+
 ## Common pattern
 
 All findings share the same class of defect: an Android component (`Activity`, `Service`, `BroadcastReceiver` or `ContentProvider`) that is exported without a permission gate, so any application installed on the device — holding **no runtime permissions at all** — can drive it and cross a trust boundary into the victim application's UID. The dominant CWE is [CWE-926](https://cwe.mitre.org/data/definitions/926.html) (Improper Export of Android Application Components).
 
-Each advisory records the artifact hash that was verified, the exported declaration read from the shipped manifest, the code path with file/line citations, a reproduction on a stock Android 13 (API 33) emulator, and negative/positive controls.
-
 ## Machine-readable index
 
-- [`advisories/index.json`](advisories/index.json) — the same data, one JSON object per finding.
+- [`advisories/index.json`](advisories/index.json) — the same data, one JSON object per finding (including which source the proof-of-concept text was taken from).
 
 ## Provenance and limitations
 
-These findings are third-party research. Where a project has a security contact the advisory states the upstream status that was verified at the time of writing; several of the affected projects are unmaintained or archived, and for those no fix is available. Affected-version ranges are limited to the builds actually verified. Claims are backed by the artifacts cited in each advisory; anything that could not be verified is explicitly marked as such in the text.
+These findings are third-party research. Each advisory records the artifact hash that was verified, the exported declaration read from the shipped manifest, the code path with file/line citations, and a reproduction on a stock Android 13 (API 33) emulator. Where a project has a security contact the advisory states the upstream status that was verified at the time of writing; several of the affected projects are unmaintained or archived, and for those no fix is available. Affected-version ranges are limited to the builds actually verified. Anything that could not be verified is explicitly marked as such in the text.
