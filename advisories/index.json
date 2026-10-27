@@ -8,12 +8,12 @@
   "cwe": "CWE-926 (Improper Export of Android Application Components)",
   "affected": "2026080101 (affected)",
   "title": "Exported activity in NetGuard disables the firewall on a caller-supplied extra name",
-  "file": "advisories/CAN-2026-2038421.md",
+  "file": "advisories/CVE-2026-107039.md",
   "poc_source": "expl",
   "poc_chars": 2216,
-  "cve_id": null,
-  "cve_status": "requested-pending",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CAN-2026-2038421.md"
+  "cve_id": "CVE-2026-107039",
+  "cve_status": "assigned",
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107039.md"
  },
  {
   "can": "CAN-2026-2038423",
@@ -24,12 +24,12 @@
   "cwe": "CWE-926 (Improper Export of Android Application Components)",
   "affected": "2.4.1 (affected)",
   "title": "Exported intent service in AndFHEM executes caller-supplied FHEM commands with the victim's credentials",
-  "file": "advisories/CAN-2026-2038423.md",
+  "file": "advisories/CVE-2026-107051.md",
   "poc_source": "req",
   "poc_chars": 25629,
-  "cve_id": null,
-  "cve_status": "requested-pending",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CAN-2026-2038423.md"
+  "cve_id": "CVE-2026-107051",
+  "cve_status": "assigned",
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107051.md"
  },
  {
   "can": "CAN-2026-2038424",
@@ -40,12 +40,15 @@
   "cwe": "CWE-926 (Improper Export of Android Application Components)",
   "affected": "107 (affected), 108 (affected), 1.3.0 (affected)",
   "title": "Exported content provider in Simple Contacts Pro and Fossify Contacts exposes the private contact store to any app",
-  "file": "advisories/CAN-2026-2038424.md",
+  "file": "advisories/CVE-2026-107015-CVE-2026-107016.md",
   "poc_source": "xaddl",
   "poc_chars": 4331,
-  "cve_id": null,
-  "cve_status": "requested-pending",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CAN-2026-2038424.md"
+  "cve_id": [
+   "CVE-2026-107015",
+   "CVE-2026-107016"
+  ],
+  "cve_status": "assigned",
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107015-CVE-2026-107016.md"
  },
  {
   "can": "CAN-2026-2053056",
@@ -56,12 +59,12 @@
   "cwe": "CWE-926 (Improper Export of Android Application Components)",
   "affected": "70 (affected)",
   "title": "Exported search activity in Focus Podcast fetches a caller URL and renders the response",
-  "file": "advisories/CAN-2026-2053056.md",
+  "file": "advisories/CVE-2026-107046.md",
   "poc_source": "expl",
   "poc_chars": 3006,
-  "cve_id": null,
-  "cve_status": "requested-pending",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CAN-2026-2053056.md"
+  "cve_id": "CVE-2026-107046",
+  "cve_status": "assigned",
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107046.md"
  },
  {
   "can": "CAN-2026-2053057",
@@ -72,12 +75,12 @@
   "cwe": "CWE-926 (Improper Export of Android Application Components)",
   "affected": "1387 (affected)",
   "title": "Exported activity in neutriNote CE autosaves caller text into a caller-chosen content URI",
-  "file": "advisories/CAN-2026-2053057.md",
+  "file": "advisories/CVE-2026-107055.md",
   "poc_source": "req",
   "poc_chars": 13725,
-  "cve_id": null,
-  "cve_status": "requested-pending",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CAN-2026-2053057.md"
+  "cve_id": "CVE-2026-107055",
+  "cve_status": "assigned",
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107055.md"
  },
  {
   "can": "CAN-2026-2053058",
@@ -88,12 +91,12 @@
   "cwe": "CWE-22 (Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'))",
   "affected": "240213.009 (affected)",
   "title": "Exported activity in the USP ZX-Spectrum emulator writes caller bytes outside its intended directory",
-  "file": "advisories/CAN-2026-2053058.md",
+  "file": "advisories/CVE-2026-107042.md",
   "poc_source": "expl",
   "poc_chars": 2528,
-  "cve_id": null,
-  "cve_status": "requested-pending",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CAN-2026-2053058.md"
+  "cve_id": "CVE-2026-107042",
+  "cve_status": "assigned",
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107042.md"
  },
  {
   "can": "CAN-2026-2053059",
@@ -104,12 +107,12 @@
   "cwe": "CWE-926 (Improper Export of Android Application Components)",
   "affected": "1111 (affected)",
   "title": "Exported installer activity in AndBible unzips caller archives into its private storage",
-  "file": "advisories/CAN-2026-2053059.md",
+  "file": "advisories/CVE-2026-107057.md",
   "poc_source": "expl",
   "poc_chars": 3380,
-  "cve_id": null,
-  "cve_status": "requested-pending",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CAN-2026-2053059.md"
+  "cve_id": "CVE-2026-107057",
+  "cve_status": "assigned",
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107057.md"
  },
  {
   "can": "CAN-2026-2053060",
@@ -120,12 +123,12 @@
   "cwe": "CWE-926 (Improper Export of Android Application Components)",
   "affected": "2026080501 (affected)",
   "title": "Exported activity in TrackerControl stops the firewall on a caller-controlled extra name",
-  "file": "advisories/CAN-2026-2053060.md",
+  "file": "advisories/CVE-2026-107036.md",
   "poc_source": "expl",
   "poc_chars": 3605,
-  "cve_id": null,
-  "cve_status": "requested-pending",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CAN-2026-2053060.md"
+  "cve_id": "CVE-2026-107036",
+  "cve_status": "assigned",
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107036.md"
  },
  {
   "can": "CAN-2026-2053061",
@@ -136,12 +139,12 @@
   "cwe": "CWE-926 (Improper Export of Android Application Components)",
   "affected": "445 (affected)",
   "title": "Exported device-admin activity in Shelter takes its HMAC key from the caller's Intent",
-  "file": "advisories/CAN-2026-2053061.md",
+  "file": "advisories/CVE-2026-107058.md",
   "poc_source": "req",
   "poc_chars": 8849,
-  "cve_id": null,
-  "cve_status": "requested-pending",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CAN-2026-2053061.md"
+  "cve_id": "CVE-2026-107058",
+  "cve_status": "assigned",
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107058.md"
  },
  {
   "can": "CAN-2026-2053062",
@@ -152,12 +155,12 @@
   "cwe": "CWE-926 (Improper Export of Android Application Components)",
   "affected": "297862600 (affected)",
   "title": "Exported broadcast receiver in Tailscale changes VPN exit-node preferences without caller authentication",
-  "file": "advisories/CAN-2026-2053062.md",
+  "file": "advisories/CVE-2026-107060.md",
   "poc_source": "expl",
   "poc_chars": 3124,
-  "cve_id": null,
-  "cve_status": "requested-pending",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CAN-2026-2053062.md"
+  "cve_id": "CVE-2026-107060",
+  "cve_status": "assigned",
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107060.md"
  },
  {
   "can": "CAN-2026-2053063",
@@ -168,12 +171,12 @@
   "cwe": "CWE-926 (Improper Export of Android Application Components)",
   "affected": "51801 (affected)",
   "title": "Exported shortcut activities in Island clear the freeze state of a caller-named app",
-  "file": "advisories/CAN-2026-2053063.md",
+  "file": "advisories/CVE-2026-107041.md",
   "poc_source": "xaddl",
   "poc_chars": 2793,
-  "cve_id": null,
-  "cve_status": "requested-pending",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CAN-2026-2053063.md"
+  "cve_id": "CVE-2026-107041",
+  "cve_status": "assigned",
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107041.md"
  },
  {
   "can": "CAN-2026-2053064",
@@ -184,12 +187,12 @@
   "cwe": "CWE-79 (Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'))",
   "affected": "3400 (affected)",
   "title": "Exported activity in OMN interpolates a page name into a javascript URL run in its own WebView",
-  "file": "advisories/CAN-2026-2053064.md",
+  "file": "advisories/CVE-2026-107035.md",
   "poc_source": "expl",
   "poc_chars": 1870,
-  "cve_id": null,
-  "cve_status": "requested-pending",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CAN-2026-2053064.md"
+  "cve_id": "CVE-2026-107035",
+  "cve_status": "assigned",
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107035.md"
  },
  {
   "can": "CAN-2026-2053065",
@@ -200,12 +203,12 @@
   "cwe": "CWE-926 (Improper Export of Android Application Components)",
   "affected": "6751 (affected)",
   "title": "Exported import activity in OpenTracks writes caller-served GPX KML KMZ data into the location database",
-  "file": "advisories/CAN-2026-2053065.md",
+  "file": "advisories/CVE-2026-107056.md",
   "poc_source": "expl",
   "poc_chars": 2075,
-  "cve_id": null,
-  "cve_status": "requested-pending",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CAN-2026-2053065.md"
+  "cve_id": "CVE-2026-107056",
+  "cve_status": "assigned",
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107056.md"
  },
  {
   "can": "CAN-2026-2053066",
@@ -216,12 +219,12 @@
   "cwe": "CWE-926 (Improper Export of Android Application Components)",
   "affected": "50200 (affected)",
   "title": "Exported send handler in YAACC injects a caller URI into its proxy map and unauthenticated HTTP server",
-  "file": "advisories/CAN-2026-2053066.md",
+  "file": "advisories/CVE-2026-107038.md",
   "poc_source": "expl",
   "poc_chars": 2478,
-  "cve_id": null,
-  "cve_status": "requested-pending",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CAN-2026-2053066.md"
+  "cve_id": "CVE-2026-107038",
+  "cve_status": "assigned",
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107038.md"
  },
  {
   "can": "CAN-2026-2053067",
@@ -232,12 +235,12 @@
   "cwe": "CWE-926 (Improper Export of Android Application Components)",
   "affected": "72600 (affected)",
   "title": "Exported broadcast receivers in NoNonsense Notes complete notes from a caller-supplied id",
-  "file": "advisories/CAN-2026-2053067.md",
+  "file": "advisories/CVE-2026-107037.md",
   "poc_source": "expl",
   "poc_chars": 2440,
-  "cve_id": null,
-  "cve_status": "requested-pending",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CAN-2026-2053067.md"
+  "cve_id": "CVE-2026-107037",
+  "cve_status": "assigned",
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107037.md"
  },
  {
   "can": "CAN-2026-2053068",
@@ -248,12 +251,12 @@
   "cwe": "CWE-926 (Improper Export of Android Application Components)",
   "affected": "131 (affected)",
   "title": "Exported activity in CodeCatcher persistently enables its shipped-disabled debug component",
-  "file": "advisories/CAN-2026-2053068.md",
+  "file": "advisories/CVE-2026-107043.md",
   "poc_source": "expl",
   "poc_chars": 2246,
-  "cve_id": null,
-  "cve_status": "requested-pending",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CAN-2026-2053068.md"
+  "cve_id": "CVE-2026-107043",
+  "cve_status": "assigned",
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107043.md"
  },
  {
   "can": "CAN-2026-2053069",
@@ -264,12 +267,12 @@
   "cwe": "CWE-926 (Improper Export of Android Application Components)",
   "affected": "8500000 (affected)",
   "title": "Exported settings importer in Forkyz applies a caller-supplied JSON to the victim's configuration",
-  "file": "advisories/CAN-2026-2053069.md",
+  "file": "advisories/CVE-2026-107049.md",
   "poc_source": "expl",
   "poc_chars": 2702,
-  "cve_id": null,
-  "cve_status": "requested-pending",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CAN-2026-2053069.md"
+  "cve_id": "CVE-2026-107049",
+  "cve_status": "assigned",
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107049.md"
  },
  {
   "can": "CAN-2026-2053070",
@@ -280,12 +283,12 @@
   "cwe": "CWE-22 (Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'))",
   "affected": "7222 (affected)",
   "title": "Exported activity in Librera writes caller-served bytes to a caller-named path in shared storage",
-  "file": "advisories/CAN-2026-2053070.md",
+  "file": "advisories/CVE-2026-107053.md",
   "poc_source": "xaddl",
   "poc_chars": 1794,
-  "cve_id": null,
-  "cve_status": "requested-pending",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CAN-2026-2053070.md"
+  "cve_id": "CVE-2026-107053",
+  "cve_status": "assigned",
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107053.md"
  },
  {
   "can": "CAN-2026-2053071",
@@ -296,12 +299,12 @@
   "cwe": "CWE-926 (Improper Export of Android Application Components)",
   "affected": "15 (affected)",
   "title": "Exported headless activity in Download Navi overwrites the system clipboard with caller text",
-  "file": "advisories/CAN-2026-2053071.md",
+  "file": "advisories/CVE-2026-107022.md",
   "poc_source": "expl",
   "poc_chars": 2557,
-  "cve_id": null,
-  "cve_status": "requested-pending",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CAN-2026-2053071.md"
+  "cve_id": "CVE-2026-107022",
+  "cve_status": "assigned",
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107022.md"
  },
  {
   "can": "CAN-2026-2053072",
@@ -312,12 +315,12 @@
   "cwe": "CWE-926 (Improper Export of Android Application Components)",
   "affected": "61 (affected)",
   "title": "Exported headless activity in Share2ArchiveToday overwrites the system clipboard with a caller URL",
-  "file": "advisories/CAN-2026-2053072.md",
+  "file": "advisories/CVE-2026-107024.md",
   "poc_source": "expl",
   "poc_chars": 2441,
-  "cve_id": null,
-  "cve_status": "requested-pending",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CAN-2026-2053072.md"
+  "cve_id": "CVE-2026-107024",
+  "cve_status": "assigned",
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107024.md"
  },
  {
   "can": "CAN-2026-2053073",
@@ -328,12 +331,12 @@
   "cwe": "CWE-926 (Improper Export of Android Application Components)",
   "affected": "3.1.0 (affected)",
   "title": "Exported headless activities in MyBrain plant caller text into the user's notes",
-  "file": "advisories/CAN-2026-2053073.md",
+  "file": "advisories/CVE-2026-107023.md",
   "poc_source": "expl",
   "poc_chars": 2107,
-  "cve_id": null,
-  "cve_status": "requested-pending",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CAN-2026-2053073.md"
+  "cve_id": "CVE-2026-107023",
+  "cve_status": "assigned",
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107023.md"
  },
  {
   "can": "CAN-2026-2053074",
@@ -344,12 +347,12 @@
   "cwe": "CWE-926 (Improper Export of Android Application Components)",
   "affected": "200300 (affected)",
   "title": "Exported headless activity in WikiAndPad appends caller text to the user's snippet store",
-  "file": "advisories/CAN-2026-2053074.md",
+  "file": "advisories/CVE-2026-107025.md",
   "poc_source": "expl",
   "poc_chars": 3056,
-  "cve_id": null,
-  "cve_status": "requested-pending",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CAN-2026-2053074.md"
+  "cve_id": "CVE-2026-107025",
+  "cve_status": "assigned",
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107025.md"
  },
  {
   "can": "CAN-2026-2053075",
@@ -360,12 +363,12 @@
   "cwe": "CWE-926 (Improper Export of Android Application Components)",
   "affected": "137 (affected)",
   "title": "Exported activity in GPSLogger downloads and activates a caller-named profile",
-  "file": "advisories/CAN-2026-2053075.md",
+  "file": "advisories/CVE-2026-107047.md",
   "poc_source": "req",
   "poc_chars": 6405,
-  "cve_id": null,
-  "cve_status": "requested-pending",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CAN-2026-2053075.md"
+  "cve_id": "CVE-2026-107047",
+  "cve_status": "assigned",
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107047.md"
  },
  {
   "can": "CAN-2026-2053076",
@@ -376,12 +379,12 @@
   "cwe": "CWE-926 (Improper Export of Android Application Components)",
   "affected": "20250630 (affected)",
   "title": "Exported headless activity in Tarnhelm writes caller process text into the system clipboard",
-  "file": "advisories/CAN-2026-2053076.md",
+  "file": "advisories/CVE-2026-107027.md",
   "poc_source": "expl",
   "poc_chars": 2765,
-  "cve_id": null,
-  "cve_status": "requested-pending",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CAN-2026-2053076.md"
+  "cve_id": "CVE-2026-107027",
+  "cve_status": "assigned",
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107027.md"
  },
  {
   "can": "CAN-2026-2053077",
@@ -392,12 +395,12 @@
   "cwe": "CWE-926 (Improper Export of Android Application Components)",
   "affected": "1.14.1 (affected)",
   "title": "Implicitly exported activity in Share to Clipboard overwrites the system clipboard with caller text",
-  "file": "advisories/CAN-2026-2053077.md",
+  "file": "advisories/CVE-2026-107026.md",
   "poc_source": "expl",
   "poc_chars": 2687,
-  "cve_id": null,
-  "cve_status": "requested-pending",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CAN-2026-2053077.md"
+  "cve_id": "CVE-2026-107026",
+  "cve_status": "assigned",
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107026.md"
  },
  {
   "can": "CAN-2026-2053078",
@@ -408,12 +411,12 @@
   "cwe": "CWE-926 (Improper Export of Android Application Components)",
   "affected": "11.0 (affected)",
   "title": "Exported activity in Shopping List imports a caller file and opens an attacker-authored list",
-  "file": "advisories/CAN-2026-2053078.md",
+  "file": "advisories/CVE-2026-107028.md",
   "poc_source": "expl",
   "poc_chars": 3867,
-  "cve_id": null,
-  "cve_status": "requested-pending",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CAN-2026-2053078.md"
+  "cve_id": "CVE-2026-107028",
+  "cve_status": "assigned",
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107028.md"
  },
  {
   "can": "CAN-2026-2053079",
@@ -424,12 +427,12 @@
   "cwe": "CWE-926 (Improper Export of Android Application Components)",
   "affected": "1.1.3 (affected)",
   "title": "Exported activities in Pile ingest a caller file into the document database and private storage",
-  "file": "advisories/CAN-2026-2053079.md",
+  "file": "advisories/CVE-2026-107029.md",
   "poc_source": "expl",
   "poc_chars": 3804,
-  "cve_id": null,
-  "cve_status": "requested-pending",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CAN-2026-2053079.md"
+  "cve_id": "CVE-2026-107029",
+  "cve_status": "assigned",
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107029.md"
  },
  {
   "can": "CAN-2026-2053080",
@@ -440,12 +443,12 @@
   "cwe": "CWE-926 (Improper Export of Android Application Components)",
   "affected": "10003 (affected)",
   "title": "Exported activity in the YubiClip XOR fork writes a caller string into the system clipboard",
-  "file": "advisories/CAN-2026-2053080.md",
+  "file": "advisories/CVE-2026-107030.md",
   "poc_source": "expl",
   "poc_chars": 3114,
-  "cve_id": null,
-  "cve_status": "requested-pending",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CAN-2026-2053080.md"
+  "cve_id": "CVE-2026-107030",
+  "cve_status": "assigned",
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107030.md"
  },
  {
   "can": "CAN-2026-2053081",
@@ -456,12 +459,12 @@
   "cwe": "CWE-22 (Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'))",
   "affected": "479 (affected)",
   "title": "Exported FileProvider in Ghost Commander opens caller-named paths with a caller-chosen access mode",
-  "file": "advisories/CAN-2026-2053081.md",
+  "file": "advisories/CVE-2026-107032.md",
   "poc_source": "expl",
   "poc_chars": 3180,
-  "cve_id": null,
-  "cve_status": "requested-pending",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CAN-2026-2053081.md"
+  "cve_id": "CVE-2026-107032",
+  "cve_status": "assigned",
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107032.md"
  },
  {
   "can": "CAN-2026-2053082",
@@ -472,12 +475,12 @@
   "cwe": "CWE-926 (Improper Export of Android Application Components)",
   "affected": "101 (affected)",
   "title": "Exported activity in MotionUI loads a caller URL and injects stored credentials into that page",
-  "file": "advisories/CAN-2026-2053082.md",
+  "file": "advisories/CVE-2026-107048.md",
   "poc_source": "expl",
   "poc_chars": 3929,
-  "cve_id": null,
-  "cve_status": "requested-pending",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CAN-2026-2053082.md"
+  "cve_id": "CVE-2026-107048",
+  "cve_status": "assigned",
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107048.md"
  },
  {
   "can": "CAN-2026-2053083",
@@ -492,7 +495,7 @@
   "poc_source": "expl",
   "poc_chars": 1615,
   "cve_id": null,
-  "cve_status": "requested-pending",
+  "cve_status": "not-assigned",
   "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CAN-2026-2053083.md"
  },
  {
@@ -504,12 +507,12 @@
   "cwe": "CWE-926 (Improper Export of Android Application Components)",
   "affected": "3.0 (affected)",
   "title": "Exported internal content provider in Mirakel exposes the user's task list to any app",
-  "file": "advisories/CAN-2026-2053084.md",
+  "file": "advisories/CVE-2026-107033.md",
   "poc_source": "expl",
   "poc_chars": 1782,
-  "cve_id": null,
-  "cve_status": "requested-pending",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CAN-2026-2053084.md"
+  "cve_id": "CVE-2026-107033",
+  "cve_status": "assigned",
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107033.md"
  },
  {
   "can": "CAN-2026-2053085",
@@ -520,12 +523,12 @@
   "cwe": "CWE-926 (Improper Export of Android Application Components)",
   "affected": "1.21 (affected)",
   "title": "Exported activity in Leafpad writes caller text into the user's notepad database",
-  "file": "advisories/CAN-2026-2053085.md",
+  "file": "advisories/CVE-2026-107034.md",
   "poc_source": "expl",
   "poc_chars": 1531,
-  "cve_id": null,
-  "cve_status": "requested-pending",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CAN-2026-2053085.md"
+  "cve_id": "CVE-2026-107034",
+  "cve_status": "assigned",
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107034.md"
  },
  {
   "can": "CAN-2026-2053086",
@@ -536,12 +539,12 @@
   "cwe": "CWE-926 (Improper Export of Android Application Components)",
   "affected": "12 (affected)",
   "title": "Exported content provider in Bander Notepad allows unattended read and write of the user's notes",
-  "file": "advisories/CAN-2026-2053086.md",
+  "file": "advisories/CVE-2026-107014.md",
   "poc_source": "expl",
   "poc_chars": 1211,
-  "cve_id": null,
-  "cve_status": "requested-pending",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CAN-2026-2053086.md"
+  "cve_id": "CVE-2026-107014",
+  "cve_status": "assigned",
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107014.md"
  },
  {
   "can": "CAN-2026-2053087",
@@ -552,12 +555,12 @@
   "cwe": "CWE-926 (Improper Export of Android Application Components)",
   "affected": "479 (affected)",
   "title": "Exported StreamProvider in Ghost Commander reads and writes files via a caller-decoded file URI",
-  "file": "advisories/CAN-2026-2053087.md",
+  "file": "advisories/CVE-2026-107018.md",
   "poc_source": "expl",
   "poc_chars": 1269,
-  "cve_id": null,
-  "cve_status": "requested-pending",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CAN-2026-2053087.md"
+  "cve_id": "CVE-2026-107018",
+  "cve_status": "assigned",
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107018.md"
  },
  {
   "can": "CAN-2026-2053088",
@@ -568,12 +571,12 @@
   "cwe": "CWE-926 (Improper Export of Android Application Components)",
   "affected": "14 (affected)",
   "title": "Exported activity in Vokibot replays a user automation from a caller-chosen trigger id",
-  "file": "advisories/CAN-2026-2053088.md",
+  "file": "advisories/CVE-2026-107017.md",
   "poc_source": "expl",
   "poc_chars": 1429,
-  "cve_id": null,
-  "cve_status": "requested-pending",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CAN-2026-2053088.md"
+  "cve_id": "CVE-2026-107017",
+  "cve_status": "assigned",
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107017.md"
  },
  {
   "can": "CAN-2026-2053089",
@@ -584,12 +587,12 @@
   "cwe": "CWE-926 (Improper Export of Android Application Components)",
   "affected": "159 (affected)",
   "title": "Exported holiday importer in Arbeitszeiterfassung2 writes caller ICS data into the victim database",
-  "file": "advisories/CAN-2026-2053089.md",
+  "file": "advisories/CVE-2026-107019.md",
   "poc_source": "expl",
   "poc_chars": 1296,
-  "cve_id": null,
-  "cve_status": "requested-pending",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CAN-2026-2053089.md"
+  "cve_id": "CVE-2026-107019",
+  "cve_status": "assigned",
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107019.md"
  },
  {
   "can": "CAN-2026-2053090",
@@ -600,12 +603,12 @@
   "cwe": "CWE-926 (Improper Export of Android Application Components)",
   "affected": "116 (affected)",
   "title": "Exported headless activity in FeedEx forces the victim service to fetch a caller URL",
-  "file": "advisories/CAN-2026-2053090.md",
+  "file": "advisories/CVE-2026-107020.md",
   "poc_source": "expl",
   "poc_chars": 1083,
-  "cve_id": null,
-  "cve_status": "requested-pending",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CAN-2026-2053090.md"
+  "cve_id": "CVE-2026-107020",
+  "cve_status": "assigned",
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107020.md"
  },
  {
   "can": "CAN-2026-2053091",
@@ -616,12 +619,12 @@
   "cwe": "CWE-926 (Improper Export of Android Application Components)",
   "affected": "20260730 (affected)",
   "title": "Exported content provider in AnyMemo discloses flashcard contents to any app",
-  "file": "advisories/CAN-2026-2053091.md",
+  "file": "advisories/CVE-2026-107021.md",
   "poc_source": "expl",
   "poc_chars": 1392,
-  "cve_id": null,
-  "cve_status": "requested-pending",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CAN-2026-2053091.md"
+  "cve_id": "CVE-2026-107021",
+  "cve_status": "assigned",
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107021.md"
  },
  {
   "can": "CAN-2026-2053092",
@@ -632,12 +635,12 @@
   "cwe": "CWE-926 (Improper Export of Android Application Components)",
   "affected": "26080824 (affected)",
   "title": "Loopback-trust admin bypass in the OMN-Go local web server",
-  "file": "advisories/CAN-2026-2053092.md",
+  "file": "advisories/CVE-2026-107040.md",
   "poc_source": "expl",
   "poc_chars": 2440,
-  "cve_id": null,
-  "cve_status": "requested-pending",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CAN-2026-2053092.md"
+  "cve_id": "CVE-2026-107040",
+  "cve_status": "assigned",
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107040.md"
  },
  {
   "can": "CAN-2026-2053093",
@@ -648,12 +651,12 @@
   "cwe": "CWE-926 (Improper Export of Android Application Components)",
   "affected": "49 (affected)",
   "title": "Exported activity in MovieDB accepts an attacker-supplied Trakt OAuth code without state validation",
-  "file": "advisories/CAN-2026-2053093.md",
+  "file": "advisories/CVE-2026-107054.md",
   "poc_source": "xaddl",
   "poc_chars": 2059,
-  "cve_id": null,
-  "cve_status": "requested-pending",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CAN-2026-2053093.md"
+  "cve_id": "CVE-2026-107054",
+  "cve_status": "assigned",
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107054.md"
  },
  {
   "can": "CAN-2026-2053094",
@@ -664,12 +667,12 @@
   "cwe": "CWE-926 (Improper Export of Android Application Components)",
   "affected": "30390190 (affected)",
   "title": "Exported activity in Nextcloud Android consumes a caller-supplied login deep link and rewrites the account",
-  "file": "advisories/CAN-2026-2053094.md",
+  "file": "advisories/CVE-2026-107059.md",
   "poc_source": "expl",
   "poc_chars": 1889,
-  "cve_id": null,
-  "cve_status": "requested-pending",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CAN-2026-2053094.md"
+  "cve_id": "CVE-2026-107059",
+  "cve_status": "assigned",
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107059.md"
  },
  {
   "can": "CAN-2026-2053095",
@@ -680,12 +683,12 @@
   "cwe": "CWE-94 (Improper Control of Generation of Code ('Code Injection'))",
   "affected": "1.22.2 (affected)",
   "title": "Exported activity in RetroArch loads a caller-named shared object as a libretro core",
-  "file": "advisories/CAN-2026-2053095.md",
+  "file": "advisories/CVE-2026-107050.md",
   "poc_source": "expl",
   "poc_chars": 3056,
-  "cve_id": null,
-  "cve_status": "requested-pending",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CAN-2026-2053095.md"
+  "cve_id": "CVE-2026-107050",
+  "cve_status": "assigned",
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107050.md"
  },
  {
   "can": "CAN-2026-2053096",
@@ -696,12 +699,12 @@
   "cwe": "CWE-22 (Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'))",
   "affected": "27 (affected)",
   "title": "AIDL file-read service in MAXS Fileread returns any file readable by the module uid",
-  "file": "advisories/CAN-2026-2053096.md",
+  "file": "advisories/CVE-2026-107052.md",
   "poc_source": "req",
   "poc_chars": 1324,
-  "cve_id": null,
-  "cve_status": "requested-pending",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CAN-2026-2053096.md"
+  "cve_id": "CVE-2026-107052",
+  "cve_status": "assigned",
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107052.md"
  },
  {
   "can": "CAN-2026-2053097",
@@ -712,12 +715,12 @@
   "cwe": "CWE-926 (Improper Export of Android Application Components)",
   "affected": "0.5.19 (affected)",
   "title": "Normal-level permission on MAXS routing state allows caller-controlled recent-contact injection",
-  "file": "advisories/CAN-2026-2053097.md",
+  "file": "advisories/CVE-2026-107044.md",
   "poc_source": "expl",
   "poc_chars": 1634,
-  "cve_id": null,
-  "cve_status": "requested-pending",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CAN-2026-2053097.md"
+  "cve_id": "CVE-2026-107044",
+  "cve_status": "assigned",
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107044.md"
  },
  {
   "can": "CAN-2026-2053098",
@@ -728,11 +731,11 @@
   "cwe": "CWE-926 (Improper Export of Android Application Components)",
   "affected": "62 (affected)",
   "title": "Normal-level read permission on the Citrine content provider exposes the user's Nostr event store",
-  "file": "advisories/CAN-2026-2053098.md",
+  "file": "advisories/CVE-2026-107045.md",
   "poc_source": "req",
   "poc_chars": 13608,
-  "cve_id": null,
-  "cve_status": "requested-pending",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CAN-2026-2053098.md"
+  "cve_id": "CVE-2026-107045",
+  "cve_status": "assigned",
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107045.md"
  }
 ]
