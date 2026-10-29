@@ -6,7 +6,7 @@
 
 CVE IDs for all 46 findings were requested from the [MITRE CNA of Last Resort](https://mitre.github.io/mitre-cve-roles/CNA-LR) on 2026-09-27 and the publication of the records was requested on 2026-10-11.
 
-**All identifiers were assigned on 2026-10-27.** MITRE CNA-LR replied to the request with one `CVE-2026-1070xx` identifier per finding; the assigned number is shown in each advisory and in the table below. The `CAN-2026-######` numbers are the MITRE **request tracking numbers** from which those IDs were issued — the request form states explicitly: _"You'll get a CAN-YYYY-####### request tracking number (NOT a CVE ID number)"_ and _"please do not use the CAN number as a public vulnerability ID"_. One tracking number covers two findings (Simple Contacts Pro and its Fossify fork share the same inherited provider), and one finding (Bulk Share, `CAN-2026-2053083`) has no identifier yet.
+**46 identifiers were assigned on 2026-10-27.** MITRE CNA-LR replied to the request with one `CVE-2026-1070xx` identifier per accepted finding; the assigned number is shown in each advisory and in the table below. The `CAN-2026-######` numbers are the MITRE **request tracking numbers** from which those IDs were issued — the request form states explicitly: _"You'll get a CAN-YYYY-####### request tracking number (NOT a CVE ID number)"_ and _"please do not use the CAN number as a public vulnerability ID"_. Of the 47 requests submitted, 46 were answered with an identifier and one — the Ghost Commander `FileProvider` (`CAN-2026-2053081`) — was answered `Duplicate of CVE-2026-107018` and therefore has no identifier of its own; that ruling treats the `FileProvider` and the `StreamProvider` as one vulnerability even though they are two distinct exported components, so its advisory is still published here without a CVE ID.
 
 ## Advisories
 
@@ -40,9 +40,9 @@ CVE IDs for all 46 findings were requested from the [MITRE CNA of Last Resort](h
 | 26 | `com.wbpxre150.shoppinglist` | ShoppingList | CWE-926 | CVE-2026-107028 | `CAN-2026-2053078` | [W6-H43-01](advisories/CVE-2026-107028.md) |
 | 27 | `es.pile` | Pile | CWE-926 | CVE-2026-107029 | `CAN-2026-2053079` | [W6-H44-01](advisories/CVE-2026-107029.md) |
 | 28 | `com.craftxbox.yubiclip.xor` | YubiClip XOR | CWE-926 | CVE-2026-107030 | `CAN-2026-2053080` | [W6-H45-01](advisories/CVE-2026-107030.md) |
-| 29 | `com.ghostsq.commander` | Ghost Commander | CWE-22 | CVE-2026-107032 | `CAN-2026-2053081` | [W6-H48-01](advisories/CVE-2026-107032.md) |
+| 29 | `com.ghostsq.commander` | Ghost Commander | CWE-22 | *no identifier* — `Duplicate of CVE-2026-107018` | `CAN-2026-2053081` | [W6-H48-01](advisories/CAN-2026-2053081.md) |
 | 30 | `app.motionui.android` | Motion-UI | CWE-926 | CVE-2026-107048 | `CAN-2026-2053082` | [W6-H5-09](advisories/CVE-2026-107048.md) |
-| 31 | `me.alexghr.bulkshare.android.app2` | me.alexghr.bulkshare.android.app2 | CWE-926 | *not yet assigned* | `CAN-2026-2053083` | [W6-H52-01](advisories/CAN-2026-2053083.md) |
+| 31 | `me.alexghr.bulkshare.android.app2` | me.alexghr.bulkshare.android.app2 | CWE-926 | CVE-2026-107032 | `CAN-2026-2053083` | [W6-H52-01](advisories/CVE-2026-107032.md) |
 | 32 | `de.azapps.mirakelandroid` | de.azapps.mirakelandroid | CWE-926 | CVE-2026-107033 | `CAN-2026-2053084` | [W6-H53-01](advisories/CVE-2026-107033.md) |
 | 33 | `com.git.amarradi.leafpad` | Leafpad | CWE-926 | CVE-2026-107034 | `CAN-2026-2053085` | [W6-H54-01](advisories/CVE-2026-107034.md) |
 | 34 | `bander.notepad` | bander.notepad | CWE-926 | CVE-2026-107014 | `CAN-2026-2053086` | [W6-H56-01](advisories/CVE-2026-107014.md) |

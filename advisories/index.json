@@ -459,12 +459,12 @@
   "cwe": "CWE-22 (Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'))",
   "affected": "479 (affected)",
   "title": "Exported FileProvider in Ghost Commander opens caller-named paths with a caller-chosen access mode",
-  "file": "advisories/CVE-2026-107032.md",
+  "file": "advisories/CAN-2026-2053081.md",
   "poc_source": "expl",
   "poc_chars": 3180,
-  "cve_id": "CVE-2026-107032",
-  "cve_status": "assigned",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107032.md"
+  "cve_id": null,
+  "cve_status": "duplicate-of CVE-2026-107018",
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CAN-2026-2053081.md"
  },
  {
   "can": "CAN-2026-2053082",
@@ -491,12 +491,12 @@
   "cwe": "CWE-926 (Improper Export of Android Application Components)",
   "affected": "2.1.0 (affected)",
   "title": "Exported headless activity in BulkShare injects caller text into the user's link queue",
-  "file": "advisories/CAN-2026-2053083.md",
+  "file": "advisories/CVE-2026-107032.md",
   "poc_source": "expl",
   "poc_chars": 1615,
-  "cve_id": null,
-  "cve_status": "not-assigned",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CAN-2026-2053083.md"
+  "cve_id": "CVE-2026-107032",
+  "cve_status": "assigned",
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107032.md"
  },
  {
   "can": "CAN-2026-2053084",
