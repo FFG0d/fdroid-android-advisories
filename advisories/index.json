@@ -1,6 +1,6 @@
 [
  {
-  "can": "CAN-2026-2038421",
+  "cve_id": "CVE-2026-107039",
   "internal_id": "W6-03",
   "package": "eu.faircode.netguard",
   "vendor": "eu.faircode.netguard",
@@ -11,12 +11,16 @@
   "file": "advisories/CVE-2026-107039.md",
   "poc_source": "expl",
   "poc_chars": 2216,
-  "cve_id": "CVE-2026-107039",
   "cve_status": "assigned",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107039.md"
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107039.md",
+  "credit": [
+   "0000FF",
+   "HJH_NJU",
+   "DevOpsPlus_NJU"
+  ]
  },
  {
-  "can": "CAN-2026-2038423",
+  "cve_id": "CVE-2026-107051",
   "internal_id": "W6-D01",
   "package": "li.klass.fhem",
   "vendor": "li.klass.fhem",
@@ -27,12 +31,19 @@
   "file": "advisories/CVE-2026-107051.md",
   "poc_source": "req",
   "poc_chars": 25629,
-  "cve_id": "CVE-2026-107051",
   "cve_status": "assigned",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107051.md"
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107051.md",
+  "credit": [
+   "0000FF",
+   "HJH_NJU",
+   "DevOpsPlus_NJU"
+  ]
  },
  {
-  "can": "CAN-2026-2038424",
+  "cve_id": [
+   "CVE-2026-107015",
+   "CVE-2026-107016"
+  ],
   "internal_id": "W6-H57-01",
   "package": "com.simplemobiletools.contacts.pro",
   "vendor": "com.simplemobiletools.contacts.pro, org.fossify.contacts",
@@ -43,15 +54,16 @@
   "file": "advisories/CVE-2026-107015-CVE-2026-107016.md",
   "poc_source": "xaddl",
   "poc_chars": 4331,
-  "cve_id": [
-   "CVE-2026-107015",
-   "CVE-2026-107016"
-  ],
   "cve_status": "assigned",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107015-CVE-2026-107016.md"
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107015-CVE-2026-107016.md",
+  "credit": [
+   "0000FF",
+   "HJH_NJU",
+   "DevOpsPlus_NJU"
+  ]
  },
  {
-  "can": "CAN-2026-2053056",
+  "cve_id": "CVE-2026-107046",
   "internal_id": "W6-F01",
   "package": "allen.town.focus.podcast",
   "vendor": "allen.town.focus.podcast",
@@ -62,12 +74,16 @@
   "file": "advisories/CVE-2026-107046.md",
   "poc_source": "expl",
   "poc_chars": 3006,
-  "cve_id": "CVE-2026-107046",
   "cve_status": "assigned",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107046.md"
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107046.md",
+  "credit": [
+   "0000FF",
+   "HJH_NJU",
+   "DevOpsPlus_NJU"
+  ]
  },
  {
-  "can": "CAN-2026-2053057",
+  "cve_id": "CVE-2026-107055",
   "internal_id": "W6-H1-05",
   "package": "com.appmindlab.nano",
   "vendor": "com.appmindlab.nano",
@@ -78,12 +94,16 @@
   "file": "advisories/CVE-2026-107055.md",
   "poc_source": "req",
   "poc_chars": 13725,
-  "cve_id": "CVE-2026-107055",
   "cve_status": "assigned",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107055.md"
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107055.md",
+  "credit": [
+   "0000FF",
+   "HJH_NJU",
+   "DevOpsPlus_NJU"
+  ]
  },
  {
-  "can": "CAN-2026-2053058",
+  "cve_id": "CVE-2026-107042",
   "internal_id": "W6-H10-01",
   "package": "app.usp",
   "vendor": "app.usp",
@@ -94,12 +114,16 @@
   "file": "advisories/CVE-2026-107042.md",
   "poc_source": "expl",
   "poc_chars": 2528,
-  "cve_id": "CVE-2026-107042",
   "cve_status": "assigned",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107042.md"
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107042.md",
+  "credit": [
+   "0000FF",
+   "HJH_NJU",
+   "DevOpsPlus_NJU"
+  ]
  },
  {
-  "can": "CAN-2026-2053059",
+  "cve_id": "CVE-2026-107057",
   "internal_id": "W6-H11-03",
   "package": "net.bible.android.activity",
   "vendor": "net.bible.android.activity",
@@ -110,12 +134,16 @@
   "file": "advisories/CVE-2026-107057.md",
   "poc_source": "expl",
   "poc_chars": 3380,
-  "cve_id": "CVE-2026-107057",
   "cve_status": "assigned",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107057.md"
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107057.md",
+  "credit": [
+   "0000FF",
+   "HJH_NJU",
+   "DevOpsPlus_NJU"
+  ]
  },
  {
-  "can": "CAN-2026-2053060",
+  "cve_id": "CVE-2026-107036",
   "internal_id": "W6-H11-10",
   "package": "net.kollnig.missioncontrol.fdroid",
   "vendor": "net.kollnig.missioncontrol.fdroid",
@@ -126,12 +154,16 @@
   "file": "advisories/CVE-2026-107036.md",
   "poc_source": "expl",
   "poc_chars": 3605,
-  "cve_id": "CVE-2026-107036",
   "cve_status": "assigned",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107036.md"
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107036.md",
+  "credit": [
+   "0000FF",
+   "HJH_NJU",
+   "DevOpsPlus_NJU"
+  ]
  },
  {
-  "can": "CAN-2026-2053061",
+  "cve_id": "CVE-2026-107058",
   "internal_id": "W6-H12-01",
   "package": "net.typeblog.shelter",
   "vendor": "net.typeblog.shelter",
@@ -142,12 +174,16 @@
   "file": "advisories/CVE-2026-107058.md",
   "poc_source": "req",
   "poc_chars": 8849,
-  "cve_id": "CVE-2026-107058",
   "cve_status": "assigned",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107058.md"
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107058.md",
+  "credit": [
+   "0000FF",
+   "HJH_NJU",
+   "DevOpsPlus_NJU"
+  ]
  },
  {
-  "can": "CAN-2026-2053062",
+  "cve_id": "CVE-2026-107060",
   "internal_id": "W6-H12-07",
   "package": "com.tailscale.ipn",
   "vendor": "com.tailscale.ipn",
@@ -158,12 +194,16 @@
   "file": "advisories/CVE-2026-107060.md",
   "poc_source": "expl",
   "poc_chars": 3124,
-  "cve_id": "CVE-2026-107060",
   "cve_status": "assigned",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107060.md"
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107060.md",
+  "credit": [
+   "0000FF",
+   "HJH_NJU",
+   "DevOpsPlus_NJU"
+  ]
  },
  {
-  "can": "CAN-2026-2053063",
+  "cve_id": "CVE-2026-107041",
   "internal_id": "W6-H13-02",
   "package": "com.oasisfeng.island.fdroid",
   "vendor": "com.oasisfeng.island.fdroid",
@@ -174,12 +214,16 @@
   "file": "advisories/CVE-2026-107041.md",
   "poc_source": "xaddl",
   "poc_chars": 2793,
-  "cve_id": "CVE-2026-107041",
   "cve_status": "assigned",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107041.md"
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107041.md",
+  "credit": [
+   "0000FF",
+   "HJH_NJU",
+   "DevOpsPlus_NJU"
+  ]
  },
  {
-  "can": "CAN-2026-2053064",
+  "cve_id": "CVE-2026-107035",
   "internal_id": "W6-H14-09",
   "package": "net.basov.omn.fdroid",
   "vendor": "net.basov.omn.fdroid",
@@ -190,12 +234,16 @@
   "file": "advisories/CVE-2026-107035.md",
   "poc_source": "expl",
   "poc_chars": 1870,
-  "cve_id": "CVE-2026-107035",
   "cve_status": "assigned",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107035.md"
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107035.md",
+  "credit": [
+   "0000FF",
+   "HJH_NJU",
+   "DevOpsPlus_NJU"
+  ]
  },
  {
-  "can": "CAN-2026-2053065",
+  "cve_id": "CVE-2026-107056",
   "internal_id": "W6-H14-14",
   "package": "de.dennisguse.opentracks",
   "vendor": "de.dennisguse.opentracks",
@@ -206,12 +254,16 @@
   "file": "advisories/CVE-2026-107056.md",
   "poc_source": "expl",
   "poc_chars": 2075,
-  "cve_id": "CVE-2026-107056",
   "cve_status": "assigned",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107056.md"
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107056.md",
+  "credit": [
+   "0000FF",
+   "HJH_NJU",
+   "DevOpsPlus_NJU"
+  ]
  },
  {
-  "can": "CAN-2026-2053066",
+  "cve_id": "CVE-2026-107038",
   "internal_id": "W6-H18-01",
   "package": "de.yaacc",
   "vendor": "de.yaacc",
@@ -222,12 +274,16 @@
   "file": "advisories/CVE-2026-107038.md",
   "poc_source": "expl",
   "poc_chars": 2478,
-  "cve_id": "CVE-2026-107038",
   "cve_status": "assigned",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107038.md"
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107038.md",
+  "credit": [
+   "0000FF",
+   "HJH_NJU",
+   "DevOpsPlus_NJU"
+  ]
  },
  {
-  "can": "CAN-2026-2053067",
+  "cve_id": "CVE-2026-107037",
   "internal_id": "W6-H19-01",
   "package": "com.nononsenseapps.notepad",
   "vendor": "com.nononsenseapps.notepad",
@@ -238,12 +294,16 @@
   "file": "advisories/CVE-2026-107037.md",
   "poc_source": "expl",
   "poc_chars": 2440,
-  "cve_id": "CVE-2026-107037",
   "cve_status": "assigned",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107037.md"
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107037.md",
+  "credit": [
+   "0000FF",
+   "HJH_NJU",
+   "DevOpsPlus_NJU"
+  ]
  },
  {
-  "can": "CAN-2026-2053068",
+  "cve_id": "CVE-2026-107043",
   "internal_id": "W6-H23-01",
   "package": "co.ec.cnsyn.codecatcher",
   "vendor": "co.ec.cnsyn.codecatcher",
@@ -254,12 +314,16 @@
   "file": "advisories/CVE-2026-107043.md",
   "poc_source": "expl",
   "poc_chars": 2246,
-  "cve_id": "CVE-2026-107043",
   "cve_status": "assigned",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107043.md"
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107043.md",
+  "credit": [
+   "0000FF",
+   "HJH_NJU",
+   "DevOpsPlus_NJU"
+  ]
  },
  {
-  "can": "CAN-2026-2053069",
+  "cve_id": "CVE-2026-107049",
   "internal_id": "W6-H27-01",
   "package": "app.crossword.yourealwaysbe.forkyz",
   "vendor": "app.crossword.yourealwaysbe.forkyz",
@@ -270,12 +334,16 @@
   "file": "advisories/CVE-2026-107049.md",
   "poc_source": "expl",
   "poc_chars": 2702,
-  "cve_id": "CVE-2026-107049",
   "cve_status": "assigned",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107049.md"
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107049.md",
+  "credit": [
+   "0000FF",
+   "HJH_NJU",
+   "DevOpsPlus_NJU"
+  ]
  },
  {
-  "can": "CAN-2026-2053070",
+  "cve_id": "CVE-2026-107053",
   "internal_id": "W6-H3-39",
   "package": "com.foobnix.pro.pdf.reader",
   "vendor": "com.foobnix.pro.pdf.reader",
@@ -286,12 +354,16 @@
   "file": "advisories/CVE-2026-107053.md",
   "poc_source": "xaddl",
   "poc_chars": 1794,
-  "cve_id": "CVE-2026-107053",
   "cve_status": "assigned",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107053.md"
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107053.md",
+  "credit": [
+   "0000FF",
+   "HJH_NJU",
+   "DevOpsPlus_NJU"
+  ]
  },
  {
-  "can": "CAN-2026-2053071",
+  "cve_id": "CVE-2026-107022",
   "internal_id": "W6-H35-01",
   "package": "com.tachibana.downloader",
   "vendor": "com.tachibana.downloader",
@@ -302,12 +374,16 @@
   "file": "advisories/CVE-2026-107022.md",
   "poc_source": "expl",
   "poc_chars": 2557,
-  "cve_id": "CVE-2026-107022",
   "cve_status": "assigned",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107022.md"
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107022.md",
+  "credit": [
+   "0000FF",
+   "HJH_NJU",
+   "DevOpsPlus_NJU"
+  ]
  },
  {
-  "can": "CAN-2026-2053072",
+  "cve_id": "CVE-2026-107024",
   "internal_id": "W6-H36-01",
   "package": "org.gnosco.share2archivetoday",
   "vendor": "org.gnosco.share2archivetoday",
@@ -318,12 +394,16 @@
   "file": "advisories/CVE-2026-107024.md",
   "poc_source": "expl",
   "poc_chars": 2441,
-  "cve_id": "CVE-2026-107024",
   "cve_status": "assigned",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107024.md"
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107024.md",
+  "credit": [
+   "0000FF",
+   "HJH_NJU",
+   "DevOpsPlus_NJU"
+  ]
  },
  {
-  "can": "CAN-2026-2053073",
+  "cve_id": "CVE-2026-107023",
   "internal_id": "W6-H37-01",
   "package": "com.mhss.app.mybrain",
   "vendor": "com.mhss.app.mybrain",
@@ -334,12 +414,16 @@
   "file": "advisories/CVE-2026-107023.md",
   "poc_source": "expl",
   "poc_chars": 2107,
-  "cve_id": "CVE-2026-107023",
   "cve_status": "assigned",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107023.md"
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107023.md",
+  "credit": [
+   "0000FF",
+   "HJH_NJU",
+   "DevOpsPlus_NJU"
+  ]
  },
  {
-  "can": "CAN-2026-2053074",
+  "cve_id": "CVE-2026-107025",
   "internal_id": "W6-H38-06",
   "package": "de.mbutscher.wikiandpad.alphabeta",
   "vendor": "de.mbutscher.wikiandpad.alphabeta",
@@ -350,12 +434,16 @@
   "file": "advisories/CVE-2026-107025.md",
   "poc_source": "expl",
   "poc_chars": 3056,
-  "cve_id": "CVE-2026-107025",
   "cve_status": "assigned",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107025.md"
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107025.md",
+  "credit": [
+   "0000FF",
+   "HJH_NJU",
+   "DevOpsPlus_NJU"
+  ]
  },
  {
-  "can": "CAN-2026-2053075",
+  "cve_id": "CVE-2026-107047",
   "internal_id": "W6-H4-58",
   "package": "com.mendhak.gpslogger",
   "vendor": "com.mendhak.gpslogger",
@@ -366,12 +454,16 @@
   "file": "advisories/CVE-2026-107047.md",
   "poc_source": "req",
   "poc_chars": 6405,
-  "cve_id": "CVE-2026-107047",
   "cve_status": "assigned",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107047.md"
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107047.md",
+  "credit": [
+   "0000FF",
+   "HJH_NJU",
+   "DevOpsPlus_NJU"
+  ]
  },
  {
-  "can": "CAN-2026-2053076",
+  "cve_id": "CVE-2026-107027",
   "internal_id": "W6-H41-01",
   "package": "cn.ac.lz233.tarnhelm",
   "vendor": "cn.ac.lz233.tarnhelm",
@@ -382,12 +474,16 @@
   "file": "advisories/CVE-2026-107027.md",
   "poc_source": "expl",
   "poc_chars": 2765,
-  "cve_id": "CVE-2026-107027",
   "cve_status": "assigned",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107027.md"
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107027.md",
+  "credit": [
+   "0000FF",
+   "HJH_NJU",
+   "DevOpsPlus_NJU"
+  ]
  },
  {
-  "can": "CAN-2026-2053077",
+  "cve_id": "CVE-2026-107026",
   "internal_id": "W6-H42-01",
   "package": "com.tengu.sharetoclipboard",
   "vendor": "com.tengu.sharetoclipboard",
@@ -398,12 +494,16 @@
   "file": "advisories/CVE-2026-107026.md",
   "poc_source": "expl",
   "poc_chars": 2687,
-  "cve_id": "CVE-2026-107026",
   "cve_status": "assigned",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107026.md"
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107026.md",
+  "credit": [
+   "0000FF",
+   "HJH_NJU",
+   "DevOpsPlus_NJU"
+  ]
  },
  {
-  "can": "CAN-2026-2053078",
+  "cve_id": "CVE-2026-107028",
   "internal_id": "W6-H43-01",
   "package": "com.wbpxre150.shoppinglist",
   "vendor": "com.wbpxre150.shoppinglist",
@@ -414,12 +514,16 @@
   "file": "advisories/CVE-2026-107028.md",
   "poc_source": "expl",
   "poc_chars": 3867,
-  "cve_id": "CVE-2026-107028",
   "cve_status": "assigned",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107028.md"
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107028.md",
+  "credit": [
+   "0000FF",
+   "HJH_NJU",
+   "DevOpsPlus_NJU"
+  ]
  },
  {
-  "can": "CAN-2026-2053079",
+  "cve_id": "CVE-2026-107029",
   "internal_id": "W6-H44-01",
   "package": "es.pile",
   "vendor": "es.pile",
@@ -430,12 +534,16 @@
   "file": "advisories/CVE-2026-107029.md",
   "poc_source": "expl",
   "poc_chars": 3804,
-  "cve_id": "CVE-2026-107029",
   "cve_status": "assigned",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107029.md"
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107029.md",
+  "credit": [
+   "0000FF",
+   "HJH_NJU",
+   "DevOpsPlus_NJU"
+  ]
  },
  {
-  "can": "CAN-2026-2053080",
+  "cve_id": "CVE-2026-107030",
   "internal_id": "W6-H45-01",
   "package": "com.craftxbox.yubiclip.xor",
   "vendor": "com.craftxbox.yubiclip.xor",
@@ -446,12 +554,16 @@
   "file": "advisories/CVE-2026-107030.md",
   "poc_source": "expl",
   "poc_chars": 3114,
-  "cve_id": "CVE-2026-107030",
   "cve_status": "assigned",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107030.md"
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107030.md",
+  "credit": [
+   "0000FF",
+   "HJH_NJU",
+   "DevOpsPlus_NJU"
+  ]
  },
  {
-  "can": "CAN-2026-2053081",
+  "cve_id": null,
   "internal_id": "W6-H48-01",
   "package": "com.ghostsq.commander",
   "vendor": "com.ghostsq.commander",
@@ -459,15 +571,19 @@
   "cwe": "CWE-22 (Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'))",
   "affected": "479 (affected)",
   "title": "Exported FileProvider in Ghost Commander opens caller-named paths with a caller-chosen access mode",
-  "file": "advisories/CAN-2026-2053081.md",
+  "file": "advisories/W6-H48-01.md",
   "poc_source": "expl",
   "poc_chars": 3180,
-  "cve_id": null,
   "cve_status": "duplicate-of CVE-2026-107018",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CAN-2026-2053081.md"
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/W6-H48-01.md",
+  "credit": [
+   "0000FF",
+   "HJH_NJU",
+   "DevOpsPlus_NJU"
+  ]
  },
  {
-  "can": "CAN-2026-2053082",
+  "cve_id": "CVE-2026-107048",
   "internal_id": "W6-H5-09",
   "package": "app.motionui.android",
   "vendor": "app.motionui.android",
@@ -478,12 +594,16 @@
   "file": "advisories/CVE-2026-107048.md",
   "poc_source": "expl",
   "poc_chars": 3929,
-  "cve_id": "CVE-2026-107048",
   "cve_status": "assigned",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107048.md"
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107048.md",
+  "credit": [
+   "0000FF",
+   "HJH_NJU",
+   "DevOpsPlus_NJU"
+  ]
  },
  {
-  "can": "CAN-2026-2053083",
+  "cve_id": "CVE-2026-107032",
   "internal_id": "W6-H52-01",
   "package": "me.alexghr.bulkshare.android.app2",
   "vendor": "me.alexghr.bulkshare.android.app2",
@@ -494,12 +614,16 @@
   "file": "advisories/CVE-2026-107032.md",
   "poc_source": "expl",
   "poc_chars": 1615,
-  "cve_id": "CVE-2026-107032",
   "cve_status": "assigned",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107032.md"
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107032.md",
+  "credit": [
+   "0000FF",
+   "HJH_NJU",
+   "DevOpsPlus_NJU"
+  ]
  },
  {
-  "can": "CAN-2026-2053084",
+  "cve_id": "CVE-2026-107033",
   "internal_id": "W6-H53-01",
   "package": "de.azapps.mirakelandroid",
   "vendor": "de.azapps.mirakelandroid",
@@ -510,12 +634,16 @@
   "file": "advisories/CVE-2026-107033.md",
   "poc_source": "expl",
   "poc_chars": 1782,
-  "cve_id": "CVE-2026-107033",
   "cve_status": "assigned",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107033.md"
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107033.md",
+  "credit": [
+   "0000FF",
+   "HJH_NJU",
+   "DevOpsPlus_NJU"
+  ]
  },
  {
-  "can": "CAN-2026-2053085",
+  "cve_id": "CVE-2026-107034",
   "internal_id": "W6-H54-01",
   "package": "com.git.amarradi.leafpad",
   "vendor": "com.git.amarradi.leafpad",
@@ -526,12 +654,16 @@
   "file": "advisories/CVE-2026-107034.md",
   "poc_source": "expl",
   "poc_chars": 1531,
-  "cve_id": "CVE-2026-107034",
   "cve_status": "assigned",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107034.md"
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107034.md",
+  "credit": [
+   "0000FF",
+   "HJH_NJU",
+   "DevOpsPlus_NJU"
+  ]
  },
  {
-  "can": "CAN-2026-2053086",
+  "cve_id": "CVE-2026-107014",
   "internal_id": "W6-H56-01",
   "package": "bander.notepad",
   "vendor": "bander.notepad",
@@ -542,12 +674,16 @@
   "file": "advisories/CVE-2026-107014.md",
   "poc_source": "expl",
   "poc_chars": 1211,
-  "cve_id": "CVE-2026-107014",
   "cve_status": "assigned",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107014.md"
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107014.md",
+  "credit": [
+   "0000FF",
+   "HJH_NJU",
+   "DevOpsPlus_NJU"
+  ]
  },
  {
-  "can": "CAN-2026-2053087",
+  "cve_id": "CVE-2026-107018",
   "internal_id": "W6-H58-01",
   "package": "com.ghostsq.commander",
   "vendor": "com.ghostsq.commander",
@@ -558,12 +694,16 @@
   "file": "advisories/CVE-2026-107018.md",
   "poc_source": "expl",
   "poc_chars": 1269,
-  "cve_id": "CVE-2026-107018",
   "cve_status": "assigned",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107018.md"
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107018.md",
+  "credit": [
+   "0000FF",
+   "HJH_NJU",
+   "DevOpsPlus_NJU"
+  ]
  },
  {
-  "can": "CAN-2026-2053088",
+  "cve_id": "CVE-2026-107017",
   "internal_id": "W6-H59-01",
   "package": "net.canvoki.vokibot",
   "vendor": "net.canvoki.vokibot",
@@ -574,12 +714,16 @@
   "file": "advisories/CVE-2026-107017.md",
   "poc_source": "expl",
   "poc_chars": 1429,
-  "cve_id": "CVE-2026-107017",
   "cve_status": "assigned",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107017.md"
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107017.md",
+  "credit": [
+   "0000FF",
+   "HJH_NJU",
+   "DevOpsPlus_NJU"
+  ]
  },
  {
-  "can": "CAN-2026-2053089",
+  "cve_id": "CVE-2026-107019",
   "internal_id": "W6-H60-01",
   "package": "askanimus.arbeitszeiterfassung2",
   "vendor": "askanimus.arbeitszeiterfassung2",
@@ -590,12 +734,16 @@
   "file": "advisories/CVE-2026-107019.md",
   "poc_source": "expl",
   "poc_chars": 1296,
-  "cve_id": "CVE-2026-107019",
   "cve_status": "assigned",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107019.md"
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107019.md",
+  "credit": [
+   "0000FF",
+   "HJH_NJU",
+   "DevOpsPlus_NJU"
+  ]
  },
  {
-  "can": "CAN-2026-2053090",
+  "cve_id": "CVE-2026-107020",
   "internal_id": "W6-H61-01",
   "package": "ru.yanus171.feedexfork",
   "vendor": "ru.yanus171.feedexfork",
@@ -606,12 +754,16 @@
   "file": "advisories/CVE-2026-107020.md",
   "poc_source": "expl",
   "poc_chars": 1083,
-  "cve_id": "CVE-2026-107020",
   "cve_status": "assigned",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107020.md"
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107020.md",
+  "credit": [
+   "0000FF",
+   "HJH_NJU",
+   "DevOpsPlus_NJU"
+  ]
  },
  {
-  "can": "CAN-2026-2053091",
+  "cve_id": "CVE-2026-107021",
   "internal_id": "W6-H62-01",
   "package": "org.liberty.android.fantastischmemo",
   "vendor": "org.liberty.android.fantastischmemo",
@@ -622,12 +774,16 @@
   "file": "advisories/CVE-2026-107021.md",
   "poc_source": "expl",
   "poc_chars": 1392,
-  "cve_id": "CVE-2026-107021",
   "cve_status": "assigned",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107021.md"
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107021.md",
+  "credit": [
+   "0000FF",
+   "HJH_NJU",
+   "DevOpsPlus_NJU"
+  ]
  },
  {
-  "can": "CAN-2026-2053092",
+  "cve_id": "CVE-2026-107040",
   "internal_id": "W6-H7-01",
   "package": "net.basov.omngo.fdroid",
   "vendor": "net.basov.omngo.fdroid",
@@ -638,12 +794,16 @@
   "file": "advisories/CVE-2026-107040.md",
   "poc_source": "expl",
   "poc_chars": 2440,
-  "cve_id": "CVE-2026-107040",
   "cve_status": "assigned",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107040.md"
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107040.md",
+  "credit": [
+   "0000FF",
+   "HJH_NJU",
+   "DevOpsPlus_NJU"
+  ]
  },
  {
-  "can": "CAN-2026-2053093",
+  "cve_id": "CVE-2026-107054",
   "internal_id": "W6-H7-03",
   "package": "com.wirelessalien.android.moviedb",
   "vendor": "com.wirelessalien.android.moviedb",
@@ -654,12 +814,16 @@
   "file": "advisories/CVE-2026-107054.md",
   "poc_source": "xaddl",
   "poc_chars": 2059,
-  "cve_id": "CVE-2026-107054",
   "cve_status": "assigned",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107054.md"
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107054.md",
+  "credit": [
+   "0000FF",
+   "HJH_NJU",
+   "DevOpsPlus_NJU"
+  ]
  },
  {
-  "can": "CAN-2026-2053094",
+  "cve_id": "CVE-2026-107059",
   "internal_id": "W6-N01",
   "package": "com.nextcloud.client",
   "vendor": "com.nextcloud.client",
@@ -670,12 +834,16 @@
   "file": "advisories/CVE-2026-107059.md",
   "poc_source": "expl",
   "poc_chars": 1889,
-  "cve_id": "CVE-2026-107059",
   "cve_status": "assigned",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107059.md"
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107059.md",
+  "credit": [
+   "0000FF",
+   "HJH_NJU",
+   "DevOpsPlus_NJU"
+  ]
  },
  {
-  "can": "CAN-2026-2053095",
+  "cve_id": "CVE-2026-107050",
   "internal_id": "W6-NF-01",
   "package": "com.retroarch",
   "vendor": "com.retroarch",
@@ -686,12 +854,16 @@
   "file": "advisories/CVE-2026-107050.md",
   "poc_source": "expl",
   "poc_chars": 3056,
-  "cve_id": "CVE-2026-107050",
   "cve_status": "assigned",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107050.md"
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107050.md",
+  "credit": [
+   "0000FF",
+   "HJH_NJU",
+   "DevOpsPlus_NJU"
+  ]
  },
  {
-  "can": "CAN-2026-2053096",
+  "cve_id": "CVE-2026-107052",
   "internal_id": "W6-P02+P03",
   "package": "org.projectmaxs.module.fileread",
   "vendor": "org.projectmaxs.module.fileread",
@@ -702,12 +874,16 @@
   "file": "advisories/CVE-2026-107052.md",
   "poc_source": "req",
   "poc_chars": 1324,
-  "cve_id": "CVE-2026-107052",
   "cve_status": "assigned",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107052.md"
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107052.md",
+  "credit": [
+   "0000FF",
+   "HJH_NJU",
+   "DevOpsPlus_NJU"
+  ]
  },
  {
-  "can": "CAN-2026-2053097",
+  "cve_id": "CVE-2026-107044",
   "internal_id": "W6-P04",
   "package": "org.projectmaxs.main",
   "vendor": "org.projectmaxs.main",
@@ -718,12 +894,16 @@
   "file": "advisories/CVE-2026-107044.md",
   "poc_source": "expl",
   "poc_chars": 1634,
-  "cve_id": "CVE-2026-107044",
   "cve_status": "assigned",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107044.md"
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107044.md",
+  "credit": [
+   "0000FF",
+   "HJH_NJU",
+   "DevOpsPlus_NJU"
+  ]
  },
  {
-  "can": "CAN-2026-2053098",
+  "cve_id": "CVE-2026-107045",
   "internal_id": "W6-P07",
   "package": "com.greenart7c3.citrine",
   "vendor": "com.greenart7c3.citrine",
@@ -734,8 +914,12 @@
   "file": "advisories/CVE-2026-107045.md",
   "poc_source": "req",
   "poc_chars": 13608,
-  "cve_id": "CVE-2026-107045",
   "cve_status": "assigned",
-  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107045.md"
+  "url": "https://github.com/FFG0d/fdroid-android-advisories/blob/main/advisories/CVE-2026-107045.md",
+  "credit": [
+   "0000FF",
+   "HJH_NJU",
+   "DevOpsPlus_NJU"
+  ]
  }
 ]
