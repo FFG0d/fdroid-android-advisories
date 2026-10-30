@@ -4,13 +4,9 @@
 
 ## Contributors
 
-| # | Contributor |
-|---:|---|
-| 1 | **0000FF** |
-| 2 | **HJH_NJU** |
-| 3 | **DevOpsPlus_NJU** |
+0000FF、HJH_NJU、DevOpsPlus_NJU
 
-Each advisory credits the same three contributors. Machine-readable credits are in the `credit` field of [`advisories/index.json`](advisories/index.json).
+Machine-readable credits are in the `credit` field of [`advisories/index.json`](advisories/index.json).
 
 ## Advisories
 
